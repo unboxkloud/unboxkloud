@@ -1,7 +1,7 @@
 # Hello, World! 👋
 - Welcome to my GitHub profile!
 - 😊 I’m MoMo from @unboxkloud
-- 👀 I’m interested in sharing knowledge on Datacenter Virtulization, Automatin, Cloud Computing & DevOps..
+- 👀 I’m interested in sharing knowledge on Datacenter Virtulization, Automation, Cloud Computing & DevOps..
 - 🚀 Here you'll find a collection of projects that showcase my skills, interests, and a bit of my journey in the world of technology.
 - 🌱 I’m currently working on Cloud & Devops Projects and intrested to Share knowledge...
 - 💞️ I’m looking to interact with people who are intrested to learn and grow in Cloud and DevOps...
