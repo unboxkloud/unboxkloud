@@ -13,7 +13,9 @@ We are grateful for the support and inspiration from the amazing open-source com
 Thanks for visiting! 😊
 
 💫 About Us
+
 What I Do
+
 🌩️ Cloud & DevOps Specialist
 Architecting scalable infrastructures
 AWS, Azure, Kubernetes expert
