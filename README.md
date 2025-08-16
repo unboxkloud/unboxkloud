@@ -17,9 +17,11 @@ What I Do
 🌩️ Cloud & DevOps Specialist
 Architecting scalable infrastructures
 AWS, Azure, Kubernetes expert
+
 🤖 Automation Enthusiast
 CI/CD pipelines
 Infrastructure as Code (IaC)
+
 📝 Content Creator
 Technical blogs
 DevOps tutorials
