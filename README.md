@@ -12,7 +12,20 @@ We are grateful for the support and inspiration from the amazing open-source com
 
 Thanks for visiting! 😊
 
-
+💫 About Us
+What I Do
+🌩️ Cloud & DevOps Specialist
+Architecting scalable infrastructures
+AWS, Azure, Kubernetes expert
+🤖 Automation Enthusiast
+CI/CD pipelines
+Infrastructure as Code (IaC)
+📝 Content Creator
+Technical blogs
+DevOps tutorials
+Open-source projects
+Quick Links
+Portfolio Resume Blog Links
 <!---
 unboxkloud/unboxkloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
